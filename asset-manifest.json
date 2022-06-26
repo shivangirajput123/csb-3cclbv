@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shivangirajput123.github.io/csb-3cclbv/static/css/main.e48eacc1.chunk.css",
+    "main.js": "https://shivangirajput123.github.io/csb-3cclbv/static/js/main.fa56422a.chunk.js",
+    "main.js.map": "https://shivangirajput123.github.io/csb-3cclbv/static/js/main.fa56422a.chunk.js.map",
+    "runtime-main.js": "https://shivangirajput123.github.io/csb-3cclbv/static/js/runtime-main.131b51c2.js",
+    "runtime-main.js.map": "https://shivangirajput123.github.io/csb-3cclbv/static/js/runtime-main.131b51c2.js.map",
+    "static/js/2.fca4cbd3.chunk.js": "https://shivangirajput123.github.io/csb-3cclbv/static/js/2.fca4cbd3.chunk.js",
+    "static/js/2.fca4cbd3.chunk.js.map": "https://shivangirajput123.github.io/csb-3cclbv/static/js/2.fca4cbd3.chunk.js.map",
+    "index.html": "https://shivangirajput123.github.io/csb-3cclbv/index.html",
+    "static/css/main.e48eacc1.chunk.css.map": "https://shivangirajput123.github.io/csb-3cclbv/static/css/main.e48eacc1.chunk.css.map",
+    "static/js/2.fca4cbd3.chunk.js.LICENSE.txt": "https://shivangirajput123.github.io/csb-3cclbv/static/js/2.fca4cbd3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.131b51c2.js",
+    "static/js/2.fca4cbd3.chunk.js",
+    "static/css/main.e48eacc1.chunk.css",
+    "static/js/main.fa56422a.chunk.js"
+  ]
+}
